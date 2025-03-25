@@ -1,5 +1,4 @@
 # Voice Cloning and Lip Synchronizer
-Project Expo
 
 ## Mentors
 M Uzzwal
