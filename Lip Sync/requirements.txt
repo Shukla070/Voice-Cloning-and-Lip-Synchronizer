@@ -1,1 +1,16 @@
-
+gradio==3.50.2
+librosa==0.8.1
+numpy==1.23.5
+opencv-contrib-python==4.7.0.72
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+tqdm==4.66.1
+numba==0.57.1
+llvmlite==0.40.0
+scipy==1.10.1
+ffmpeg
+gfpgan
+pydub
+transformers==4.26.0
+git+https://github.com/jnordberg/tortoise-tts.git
